@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>من نحن - موقع الامتحانات المغربية</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { font-family: 'Segoe UI', Tahoma, 'Traditional Arabic', Arial, sans-serif; background: #f0f2f5; direction: rtl; }
+        .header { background: linear-gradient(135deg, #1e3c72 0%, #2a5298 100%); color: white; padding: 25px 20px; text-align: center; }
+        .header h1 { font-size: 2.2em; }
+        .header h1 span { color: #ffd700; }
+        .container { max-width: 1000px; margin: 0 auto; padding: 40px 20px; background: white; border-radius: 20px; margin-top: 30px; }
+        .footer { background: #1a1a2e; color: white; text-align: center; padding: 30px; margin-top: 30px; }
+        .btn-back { background: #2a5298; color: white; padding: 10px 20px; border-radius: 8px; text-decoration: none; display: inline-block; margin-bottom: 20px; }
+        .contact-section { background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; text-align: center; padding: 20px; margin: 30px 0; border-radius: 15px; }
+        .contact-section a { color: #ffd700; text-decoration: none; }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>📚 <span>الامتحانات المغربية</span></h1>
+        <p>منصة تعليمية مجانية للتلاميذ المغاربة</p>
+    </div>
+    <div class="container">
+        <a href="index.html" class="btn-back">🏠 العودة إلى الرئيسية</a>
+        
+        <h2 style="color:#2a5298; margin-bottom:20px;">📖 من نحن؟</h2>
+        <p style="line-height:1.8; margin-bottom:20px;">نحن فريق من الأساتذة والمبرمجين المغاربة، نؤمن بأن النجاح حق للجميع بغض النظر عن الإمكانيات المادية.</p>
+        <p style="line-height:1.8; margin-bottom:20px;">بدأنا هذا الموقع لتوفير جميع الامتحانات الجهوية والوطنية في مكان واحد، مجاناً، بدون تعقيد، وبدون حسابات.</p>
+        <p style="line-height:1.8; margin-bottom:20px;">نقوم بجمع الامتحانات من جميع جهات المغرب، وتصحيحها، ونشرها فور صدورها.</p>
+        
+        <h2 style="color:#2a5298; margin:30px 0 20px;">🎯 هدفنا</h2>
+        <p style="line-height:1.8; margin-bottom:20px;">مساعدة التلاميذ المغاربة على الاستعداد الجيد للامتحانات الجهوية والوطنية، من خلال توفير نماذج سابقة مع التصحيح، ليكونوا على دراية بطبيعة الأسئلة والمستوى المطلوب.</p>
+        
+        <h2 style="color:#2a5298; margin:30px 0 20px;">📞 تواصل معنا</h2>
+        <p style="line-height:1.8;">للاستفسارات أو الاقتراحات أو الإبلاغ عن أي خطأ، يمكنكم التواصل معنا عبر البريد الإلكتروني أدناه.</p>
+    </div>
+    
+    <div class="contact-section">
+        <p>📧 للتواصل والاستفسار: <a href="mailto:lachhababdllah788@gmail.com">lachhababdllah788@gmail.com</a></p>
+    </div>
+    
+    <div class="footer">
+        <p>© 2025 موقع الامتحانات المغربية - جميع الحقوق محفوظة</p>
+        <p><a href="index.html" style="color:#ffd700;">الرئيسية</a> | <a href="about.html" style="color:#ffd700;">من نحن</a> | <a href="privacy.html" style="color:#ffd700;">سياسة الخصوصية</a></p>
+    </div>
+</body>
+</html>
